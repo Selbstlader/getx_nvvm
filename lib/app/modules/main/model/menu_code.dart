@@ -1,4 +1,4 @@
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import '/l10n/app_localizations.dart';
 import 'package:flutter_getx_template/app/modules/main/model/menu_item.dart';
 
 enum MenuCode { HOME, FAVORITE, SETTINGS }
